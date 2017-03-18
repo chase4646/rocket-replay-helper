@@ -1,0 +1,18 @@
+{
+  "name": "rocket-replay-helper",
+  "productName": "rocket-replay-helper",
+  "version": "0.0.1",
+  "description": "Tool for auto-updating saved replays to rocketleaguereplay.com",
+  "main": "./main.js",
+  "author": {
+    "name": "Chase 46",
+    "email": "sjd333@gmail.com",
+    "url": "https://github.com/chase4646"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "chokidar": "^1.6.1",
+    "node-notifier": "^5.1.2",
+    "request": "^2.81.0"
+  }
+}
