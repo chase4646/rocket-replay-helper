@@ -1,7 +1,7 @@
 {
   "name": "rocket-replay-helper",
   "productName": "RocketReplayHelper",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Auto-upload your Rocket League Replays to rocketleaguereplays.com",
   "main": "main.js",
   "scripts": {

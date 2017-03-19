@@ -1,7 +1,7 @@
 {
   "name": "rocket-replay-helper",
   "productName": "rocket-replay-helper",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Tool for auto-updating saved replays to rocketleaguereplay.com",
   "main": "./main.js",
   "author": {
